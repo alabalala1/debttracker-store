@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Debt Tracker",
-      "bundleIdentifier": "com.alabalala1.debttracker",
+      "bundleIdentifier": "com.example.debttracker",
       "developerName": "Ala Balala",
       "version": "1.0",
       "versionDate": "2026-06-16",

@@ -1,0 +1,18 @@
+{
+  "name": "Debt Tracker Store",
+  "identifier": "com.alabalala1.store",
+  "apps": [
+    {
+      "name": "Debt Tracker",
+      "bundleIdentifier": "com.alabalala1.debttracker",
+      "developerName": "Ala Balala",
+      "version": "1.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "الإصدار الأول من تطبيق تتبع الديون.",
+      "downloadURL": "سنضع_الرابط_هنا_في_الخطوة_القادمة",
+      "iconURL": "https://raw.githubusercontent.com/alabalala1/debttracker-store/main/icon.png",
+      "localizedDescription": "تطبيق متكامل لإدارة وتتبع الديون بسهولة.",
+      "size": 15000000
+    }
+  ]
+}
